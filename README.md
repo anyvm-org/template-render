@@ -4,9 +4,9 @@
 
 
 # render
-Render templates The latest release is: v0.0.1
+Render templates The latest release is: v0.0.2
 
-Non defined variables are kept as-is: {{nodefined}}
+Non defined variables are kept as-is: 
 
 this is a TTTEST .
 
