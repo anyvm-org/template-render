@@ -4,7 +4,7 @@
 
 
 # render
-Render templates The latest release is: v0.0.2
+Render templates The latest release is: v0.0.3
 
 Non defined variables are kept as-is: 
 
@@ -33,6 +33,9 @@ Example usage:
 
 ```
 name: "Update Readme"
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   push:
