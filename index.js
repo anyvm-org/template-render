@@ -1,9 +1,9 @@
-const core = require('@actions/core');
-const fs = require("fs");
-const ini = require('ini');
-const https = require('https');
-const http = require('http');
-const { URL } = require('url');
+import * as core from '@actions/core';
+import fs from 'fs';
+import ini from 'ini';
+import https from 'https';
+import http from 'http';
+import { URL } from 'url';
 
 async function fetchUrl(url, depth = 0) {
     if (depth > 10) {
