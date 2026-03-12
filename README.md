@@ -4,7 +4,7 @@
 
 
 # render
-Render templates The latest release is: v0.0.3
+Render templates The latest release is: v0.0.4
 
 Non defined variables are kept as-is: 
 
