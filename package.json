@@ -1,12 +1,12 @@
 {
-  "name": "render",
+  "name": "template-render",
   "version": "0.0.1",
   "description": "",
   "type": "module",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anyvm-org/render.git"
+    "url": "git+https://github.com/anyvm-org/template-render.git"
   },
   "keywords": [
     "GitHub",
@@ -16,9 +16,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anyvm-org/render/issues"
+    "url": "https://github.com/anyvm-org/template-render/issues"
   },
-  "homepage": "https://github.com/anyvm-org/render",
+  "homepage": "https://github.com/anyvm-org/template-render",
   "dependencies": {
     "@actions/core": "^3.0.0",
     "ini": "^3.0.0"
