@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vmactions/render.git"
+    "url": "git+https://github.com/anyvm-org/render.git"
   },
   "keywords": [
     "GitHub",
@@ -16,9 +16,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vmactions/render/issues"
+    "url": "https://github.com/anyvm-org/render/issues"
   },
-  "homepage": "https://github.com/vmactions/render",
+  "homepage": "https://github.com/anyvm-org/render",
   "dependencies": {
     "@actions/core": "^3.0.0",
     "ini": "^3.0.0"
